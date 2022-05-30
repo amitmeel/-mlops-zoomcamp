@@ -6,6 +6,8 @@ In week 1 of MLOps-zoomcamp we will learn about the below topics:
 * How to install docker compose on EC2 instance and run hello-world
 * How to connect Visual Studio Code terminal to EC2 instance with the help of Remote SSH extenstion from microsoft.
 * How to start jupyter notebook on EC2 instance (Remote server/machine) and then run it on your local machine using port forwarding.
+* How to read Parquet files using pandas.
+* Train a machine learning model to predict the duration of ride (Dataset = [NYC Taxi dataset](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page))
 
 **What is MlOps:**
 ----------------
