@@ -1,4 +1,5 @@
 In week 1 of MLOps-zoomcamp we will learn about the below topics:
+------------------------------------------------------------------
 * what is MLOps
 * How to create an EC2 instance (virtual server in cloud) on AWS
 * How to connect to the EC2 instance from local machine with ssh
