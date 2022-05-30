@@ -9,3 +9,6 @@ MLOps course from DataTalks.Club
 * Prior programming experience (at least 1+ year)
 
 Course video playlist: [MLOPS-Zoomcamp](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
+
+This repo is created to complete the given homework in mlops-zoomcamp course from DataTalks.Club.
+I will also be sharing my notes and code snippets from the course in this repo. If i will learn any new tool related to MLOps, I will share it in this repo.
